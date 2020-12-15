@@ -35,4 +35,4 @@ Math.floor(sum / 100) => 4
 
 mvn -Dtest=RetailStoreDiscountsApplicationTest test
 
-![plot](https://github.com/demiremredev/RetailDiscounts/testpassed.png)
+![Screenshot](testpassed.png)
