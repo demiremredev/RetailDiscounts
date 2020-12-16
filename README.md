@@ -35,4 +35,13 @@ Math.floor(sum / 100) => 4
 
 mvn -Dtest=RetailStoreDiscountsApplicationTest test
 
+----TESTS----
+
 ![Screenshot](testpassed.png)
+
+
+
+----UML----
+
+
+![Screenshot](uml.gif)
